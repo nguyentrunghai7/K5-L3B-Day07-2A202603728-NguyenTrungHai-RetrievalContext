@@ -1,0 +1,294 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "question": "How old was Emma Woodhouse at the beginning of the novel?",
+    "expected_answer": "Nearly twenty-one.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 1,
+        "evidence": "lived nearly twenty-one years in the world"
+      }
+    ]
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "question": "How many years did Miss Taylor spend with the Woodhouse family?",
+    "expected_answer": "Sixteen years.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 1,
+        "evidence": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family"
+      }
+    ]
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "question": "What service did Mr. Weston enter?",
+    "expected_answer": "His county militia.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 2,
+        "evidence": "by entering into the militia of his county"
+      }
+    ]
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "question": "What kinds of occasions made it difficult for Mr. Woodhouse to socialize?",
+    "expected_answer": "Late hours and large dinner parties.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 3,
+        "evidence": "his horror of late hours, and large dinner-parties"
+      }
+    ]
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "question": "Who took the portrait to London for framing?",
+    "expected_answer": "Mr. Elton.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 6,
+        "evidence": "Mr. Elton was to take the drawing to London, chuse the frame"
+      }
+    ]
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "question": "What did Mr. Martin communicate in his letter delivered in a parcel?",
+    "expected_answer": "A proposal of marriage.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 7,
+        "evidence": "this letter was from him, from Mr. Martin, and contained a direct proposal of marriage."
+      }
+    ]
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "question": "What solution did Emma find for Mr. Elton's charade?",
+    "expected_answer": "Courtship.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 9,
+        "evidence": "charades. _Courtship_—a very good hint."
+      }
+    ]
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "question": "Why was Emma going down Vicarage Lane in mid-December?",
+    "expected_answer": "To visit a poor sick family.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 10,
+        "evidence": "Emma had a charitable visit to pay to a poor sick family"
+      }
+    ]
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "question": "How many children came to Hartfield with Isabella and John Knightley?",
+    "expected_answer": "Five.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 11,
+        "evidence": "Mr. and Mrs. John Knightley, their five children"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "question": "What reason was given in Frank Churchill's letter for missing his planned visit?",
+    "expected_answer": "He could not be spared at the time.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 18,
+        "evidence": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared"
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "question": "What family circumstances are given when the narrator introduces Jane Fairfax?",
+    "expected_answer": "She was an orphan and the only child of Mrs. Bates's youngest daughter.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 20,
+        "evidence": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter."
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "question": "Which city was Miss Hawkins's home, despite spending part of the winter elsewhere?",
+    "expected_answer": "Bristol.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 22,
+        "evidence": "Part of every winter she had been used to spend in Bath; but Bristol was her home"
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "question": "What was the apparent purpose of Frank Churchill's sudden trip to London?",
+    "expected_answer": "To get a haircut.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 25,
+        "evidence": "he was gone off to London, merely to have his hair cut."
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "question": "Where had the unexpected pianoforte been sent from?",
+    "expected_answer": "Broadwood's.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 26,
+        "evidence": "this pianoforte had arrived from Broadwood’s the day before"
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "question": "Whose spectacles was Frank Churchill working on when the visitors came in?",
+    "expected_answer": "Mrs. Bates's.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 28,
+        "evidence": "Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles"
+      }
+    ]
+  },
+  {
+    "id": "D16",
+    "split": "dev",
+    "question": "What was the serial number of Jane Fairfax’s pianoforte?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Scan all 55 chapters for serial, maker and manufacturer and review pianoforte passages. Its origin is discussed, but an identifying number is never supplied."
+  },
+  {
+    "id": "D17",
+    "split": "dev",
+    "question": "What was the manufacturer’s name printed on the paint Emma used for Harriet’s portrait?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Scan all chapters for manufacturer and paint; review I.VI. Drawing materials and framing are discussed, with no manufacturer on paint."
+  },
+  {
+    "id": "T01",
+    "split": "test",
+    "question": "Where was the ball held on the night Emma gave Harriet a ride?",
+    "expected_answer": "At the Crown.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 38,
+        "evidence": "She was to convey Harriet, and they drove to the Crown in good time"
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "split": "test",
+    "question": "Until what season did the Highbury residents learn the Sucklings had to postpone their visit?",
+    "expected_answer": "Autumn.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 42,
+        "evidence": "they could not possibly come till the autumn"
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "split": "test",
+    "question": "Whose treatment by Emma had recently shocked Mr. Knightley?",
+    "expected_answer": "Miss Bates.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 48,
+        "evidence": "How shocked had he been by her behaviour to Miss Bates!"
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "split": "test",
+    "question": "What was the sex of the child Mrs. Weston gave birth to?",
+    "expected_answer": "A girl.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 53,
+        "evidence": "by knowing her to be the mother of a little girl"
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "split": "test",
+    "question": "What was Harriet Smith’s biological father’s occupation, as revealed at the end?",
+    "expected_answer": "He was a tradesman.",
+    "gold": [
+      {
+        "source_id": "pg158",
+        "page": 55,
+        "evidence": "She proved to be the daughter of a tradesman"
+      }
+    ]
+  },
+  {
+    "id": "T06",
+    "split": "test",
+    "question": "What registration number appears on Emma and Mr. Knightley’s marriage certificate?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Scan all chapters for certificate, register and registration; review the III.XIX wedding passage. It describes the event without a certificate number."
+  },
+  {
+    "id": "T07",
+    "split": "test",
+    "question": "How many pounds did the physician bill the Westons for delivering their baby?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Scan all chapters for physician, bill, fee and pounds; review III.XVII. The birth and recovery are mentioned without a medical charge."
+  }
+]

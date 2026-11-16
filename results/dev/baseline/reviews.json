@@ -1,0 +1,174 @@
+[
+  {
+    "query_id": "Q01",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Doan tro dan noi ve dan piano. Tuoi 20 khong co can cu tai day.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "Q02",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Thoi luong 16 nam duoc neu trong doan ve Miss Taylor.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q03",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Tu service chi viec giup Harriet, khong phai viec nhap dan quan cua Weston.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "Q04",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context co canh dung bua va suc khoe, nhung thieu gio muon va tiec lon. Citation noi ve cung cach cua Churchill.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q05",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Doan ve chan dung cho biet chat lieu mau nuoc. Citation noi ve khong khi London va khong cho biet ai dem tranh.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q06",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "La loi cau hon. Doan chuong 7 noi ro buc thu nam trong goi va tu Mr. Martin.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q07",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Co phan nhan xet ve cau do, nhung thieu loi giai. Citation ve viec Jane di lam gia su.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q08",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Doan dau chuong 10 noi ro chuyen tham gia dinh ngheo dang om.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q09",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false,
+      false
+    ],
+    "reason": "Ca hai doan xac nhan co tre em nhung khong neu so luong. Cau tra loi tu choi dua ra con so.",
+    "answer_grade": 0,
+    "context_grade": 1,
+    "semantic_abstention": true
+  },
+  {
+    "query_id": "Q10",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Cac doan co thu du kien chuyen tham, nhung thieu thu xin loi. Cited letter do Frank viet, nguoc voi cau tra loi.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q11",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false,
+      false
+    ],
+    "reason": "Co nhac ba va di cua Jane, thieu thong tin mo coi va than the. Gia dinh duoc mo ta o bua tiec la gia dinh khac.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q12",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false,
+      false
+    ],
+    "reason": "Bath la cach Miss Bates goi trong mot doan khac. Query viet lai lam mat doan phan biet Bristol va Bath.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q13",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Doan dau chuong 25 noi Frank den London de cat toc.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q14",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false,
+      false
+    ],
+    "reason": "Broadwood la noi dan den. Campbell chi la suy doan ve nguoi dat dan, va doan dau chi dich danh Broadwood.",
+    "answer_grade": 0,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q15",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false,
+      false
+    ],
+    "reason": "Doan nhac nguoi sua kinh va dai tu my mother nhung thieu ten chu so huu. Khong doan nao noi kinh cua Frank.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "D16",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "5400 la offset trong chunk ID. Doan trich noi ve nguon dan, khong co serial.",
+    "abstention_correct": false
+  },
+  {
+    "query_id": "D17",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [],
+    "reason": "Model tu choi truc tiep va khong dua ra suy doan, nhung bo qua tim kiem.",
+    "abstention_correct": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "config": "hybrid-wide",
+  "answerable": 15,
+  "n": 17,
+  "hit1": 5,
+  "hit3": 8,
+  "context_hit": 11,
+  "errors": 0,
+  "median_ms": 1176.7548999996507,
+  "median_original_ms": 15.943599999445723,
+  "prompt_tokens": 24400,
+  "completion_tokens": 1279,
+  "service_cost_usd": 0
+}

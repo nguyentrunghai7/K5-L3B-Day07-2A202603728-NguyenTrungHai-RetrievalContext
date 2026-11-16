@@ -1,0 +1,14 @@
+{
+  "config": "baseline",
+  "answerable": 15,
+  "n": 17,
+  "hit1": 3,
+  "hit3": 6,
+  "context_hit": 5,
+  "errors": 0,
+  "median_ms": 1127.2157999992487,
+  "median_original_ms": 6.803599997510901,
+  "prompt_tokens": 16236,
+  "completion_tokens": 1372,
+  "service_cost_usd": 0
+}

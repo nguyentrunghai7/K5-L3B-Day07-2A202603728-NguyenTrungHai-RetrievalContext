@@ -2,6 +2,8 @@
 
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
+**Bài làm của Nguyễn Trung Hải (2A202603728, L3B)** · [Hướng dẫn chạy lại](RUN_DAY07.md) · [Báo cáo cá nhân](report/individual/2A202603728_NguyenTrungHai.md)
+
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
 
 > **Tùy chọn:** [Gợi ý dùng AI để lập trình](AGENT_SETUP.md) giúp bạn làm lab; phần này không bắt buộc và không tính điểm.

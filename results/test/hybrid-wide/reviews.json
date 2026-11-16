@@ -1,0 +1,68 @@
+[
+  {
+    "query_id": "T01",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context nhắc đến buổi khiêu vũ. Citation nêu tin đồn lan ở Highbury và không xác định nơi diễn ra buổi khiêu vũ.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "T02",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Đầu chương 42 nói đích danh nhà Suckling và thời điểm họ sớm nhất có thể đến là mùa thu.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "T03",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Citation mô tả một lần Knightley nói chuyện với Emma. Nó không có phản ứng trước cách Emma đối xử với Miss Bates.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "T04",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context rộng nhắc con của vợ chồng Weston nhưng thiếu giới tính. Citation về con trai là đoạn nói về người vợ đầu.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "T05",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context có nhắc bí ẩn về thân thế Harriet. Citation dừng ở tin hôn nhân, và chương 55 mới tiết lộ nghề của cha cô.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "T06",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [],
+    "reason": "Model từ chối và không nêu số đăng ký. Lần này model không gọi retrieval tool.",
+    "abstention_correct": true
+  },
+  {
+    "query_id": "T07",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Đoạn văn nói bà suýt gọi Mr. Perry và cuối cùng không gọi. Agent khẳng định bà đã gọi, thêm chi tiết Windsor và không từ chối rõ về khoản tiền.",
+    "abstention_correct": false
+  }
+]

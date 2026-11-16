@@ -1,0 +1,66 @@
+[
+  {
+    "query_id": "T01",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Đoạn trích mô tả buổi khiêu vũ đang diễn ra. Nó không ghi tên Highbury hay tên địa điểm the Crown.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "T02",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context có chương 42 ghi mùa thu. Đoạn được trích dẫn ghi tháng Tám cho chuyến về của nhà Campbell, một sự kiện khác.",
+    "answer_grade": 0,
+    "context_grade": 2
+  },
+  {
+    "query_id": "T03",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Người nói và Jane bị sốc về số táo được cho. Đoạn trích không nói Knightley phản ứng với cách Emma đối xử với Jane.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "T04",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Chương 2 nói con trai của Captain Weston và người vợ đầu. Gold ở chương 53 đề cập bé gái của Mrs. Weston.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "T05",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Nguồn nhắc xuất thân Harriet còn là bí ẩn và khuyên Harriet lấy Robert Martin. Nó không nói cha Harriet làm nông.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "T06",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [],
+    "reason": "Model từ chối và không nêu số đăng ký. Lần này model không gọi retrieval tool.",
+    "abstention_correct": true
+  },
+  {
+    "query_id": "T07",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [],
+    "reason": "Model tìm một lượt rồi từ chối. Câu trả lời không suy đoán khoản tiền hoặc tình tiết khác.",
+    "abstention_correct": true
+  }
+]

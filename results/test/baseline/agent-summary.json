@@ -1,0 +1,40 @@
+{
+  "cases": 7,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 6,
+    "N": 7
+  },
+  "grounded_answer": {
+    "0": 5,
+    "1": 0,
+    "2": 0,
+    "N": 5,
+    "mean": 0.0
+  },
+  "citation_validity": {
+    "n": 0,
+    "N": 5
+  },
+  "answer_citation_coverage": {
+    "n": 5,
+    "N": 5
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 0,
+    "N": 5
+  },
+  "context_grade_counts": {
+    "0": 2,
+    "1": 2,
+    "2": 1
+  },
+  "search_count_distribution": {
+    "0": 1,
+    "1": 6
+  }
+}

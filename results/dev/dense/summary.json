@@ -1,0 +1,14 @@
+{
+  "config": "dense",
+  "answerable": 15,
+  "n": 17,
+  "hit1": 8,
+  "hit3": 9,
+  "context_hit": 10,
+  "errors": 0,
+  "median_ms": 1085.5604999997013,
+  "median_original_ms": 9.469199998420663,
+  "prompt_tokens": 15876,
+  "completion_tokens": 1327,
+  "service_cost_usd": 0
+}

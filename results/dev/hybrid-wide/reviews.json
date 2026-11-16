@@ -1,0 +1,170 @@
+[
+  {
+    "query_id": "Q01",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Doan mo dau noi gan 21. Cau tra loi lam tron thanh da 21.",
+    "answer_grade": 1,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q02",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Thoi luong 16 nam duoc neu trong doan ve Miss Taylor.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q03",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Doan chuong 2 ghi ro Weston gia nhap dan quan cua hat.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q04",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context co ca gio muon va tiec lon, nhung agent chon doan bua an khac va gan sai gio som cua khach cho Woodhouse.",
+    "answer_grade": 0,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q05",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Cau tra loi dung va chunk ve viec Elton chon khung co trong context. Citation da chon chi neu chat lieu buc tranh.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q06",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "La loi cau hon. Doan chuong 7 noi ro buc thu nam trong goi va tu Mr. Martin.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q07",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context nhac cau do nhung chua co loi giai. Citation ve thay doi chu de tro chuyen.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q08",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true,
+      false
+    ],
+    "reason": "Doan dau chuong 10 noi ro chuyen tham gia dinh ngheo dang om. Citation thu hai mieu ta ngoi nha cua cha xu.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q09",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Chuong 13 mo dau noi Isabella di tham ban be tai Hartfield cung nam con. Bang chung thay the ngoai gold.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q10",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context co nhac thu cua Frank nhung thieu ly do trong thu xin loi. Citation ban ve suc khoe ba Churchill trong canh khac.",
+    "answer_grade": 0,
+    "context_grade": 1
+  },
+  {
+    "query_id": "Q11",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Dau chuong 20 ghi ca viec Jane mo coi va la con duy nhat cua con gai ut ba Bates.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q12",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Doan chuong 22 phan biet mua dong o Bath va nha o Bristol.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q13",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      true
+    ],
+    "reason": "Doan dau chuong 25 noi Frank den London de cat toc.",
+    "answer_grade": 2,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q14",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Context co noi gui Broadwood. Citation agent lay chi neu suy doan Colonel Campbell dat dan.",
+    "answer_grade": 0,
+    "context_grade": 2
+  },
+  {
+    "query_id": "Q15",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Citation ve Frank ban ke hoach mua khieu vu, khong noi ve kinh.",
+    "answer_grade": 0,
+    "context_grade": 0
+  },
+  {
+    "query_id": "D16",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [
+      false
+    ],
+    "reason": "Model noi context khong co serial, khong bua ra so. Citation ve mot chiec piano khac khong xac minh su vang mat.",
+    "abstention_correct": true,
+    "semantic_abstention": true
+  },
+  {
+    "query_id": "D17",
+    "reviewed_by": "Codex reading source and trace",
+    "citation_support": [],
+    "reason": "Model tu choi truc tiep va khong dua ra suy doan, nhung bo qua tim kiem.",
+    "abstention_correct": true
+  }
+]
